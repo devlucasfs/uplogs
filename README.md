@@ -11,3 +11,8 @@ chore(git): fixing git script to push
 ```
 feat(precompilers): extra pre-compilers were added
 ```
+# New commit in Carla.
+- Date: 2026-07-14 02:11:23
+```
+chore(target.eva): renaming the precompiler `name` field to `bin`
+```
