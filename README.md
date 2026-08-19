@@ -31,3 +31,8 @@ chore(multi file imporoved): know you can push and pop files. Lines are now file
 ```
 git: removed uplogs
 ```
+# New commit in Morgana.
+- Date: 2026-08-19 12:10:42
+```
+chore(syscalls): made syscalls statement and runa improved
+```
