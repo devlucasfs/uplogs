@@ -36,3 +36,8 @@ git: removed uplogs
 ```
 chore(syscalls): made syscalls statement and runa improved
 ```
+# New commit in Morgana.
+- Date: 2026-08-21 10:44:58
+```
+refactor(runa linking): recycling all code possible
+```
