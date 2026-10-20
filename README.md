@@ -86,3 +86,8 @@ feat/refactor(ret and rewrite of parser and assembler): some changes
 ```
 git(unknown files): removed unknown files from the git repository
 ```
+# New commit in Carla.
+- Date: 2026-10-20 04:03:07
+```
+feature(unfold): foward (aka. unfold) declarations
+```
