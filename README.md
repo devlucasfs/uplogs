@@ -66,3 +66,8 @@ working in rust rewrite
 ```
 feat(move): rename ids
 ```
+# New commit in Carla.
+- Date: 2026-10-19 22:14:47
+```
+feat(codegen): new cogeden features
+```
