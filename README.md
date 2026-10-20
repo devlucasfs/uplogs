@@ -76,3 +76,8 @@ feat(codegen): new cogeden features
 ```
 feat(defer): defer and other features
 ```
+# New commit in Morgana.
+- Date: 2026-10-20 02:54:53
+```
+feat/refactor(ret and rewrite of parser and assembler): some changes
+```
