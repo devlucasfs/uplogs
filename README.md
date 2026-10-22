@@ -112,3 +112,8 @@ feature(params & improved ret): was added a different ret expression, and also n
 ```
 features(deref, constexpr, runa, syscalls): .* operator to access pointers; constexpr to cross-compiling; now runa also is a carla dependency. Also was made a Runa String kind of token, for Runa expressions inside Carla; syscall keyword also was added
 ```
+# New commit in Morgana.
+- Date: 2026-10-22 09:51:41
+```
+a bunch of code was added, i am slepy and don't want to type
+```
