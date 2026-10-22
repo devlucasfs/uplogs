@@ -96,3 +96,9 @@ feature(unfold): foward (aka. unfold) declarations
 ```
 feature(unfold): foward (aka. unfold) declarations
 ```
+# New commit in Carla.
+- Date: 2026-10-22 02:52:28
+```
+feature(extend): POO finally is working
+
+```
