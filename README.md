@@ -102,3 +102,8 @@ feature(unfold): foward (aka. unfold) declarations
 feature(extend): POO finally is working
 
 ```
+# New commit in Morgana.
+- Date: 2026-10-22 02:55:12
+```
+feature(params & improved ret): was added a different ret expression, and also now its possible to collet arguments by a function argument destroyer
+```
