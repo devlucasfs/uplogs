@@ -107,3 +107,8 @@ feature(extend): POO finally is working
 ```
 feature(params & improved ret): was added a different ret expression, and also now its possible to collet arguments by a function argument destroyer
 ```
+# New commit in Carla.
+- Date: 2026-10-22 09:50:56
+```
+features(deref, constexpr, runa, syscalls): .* operator to access pointers; constexpr to cross-compiling; now runa also is a carla dependency. Also was made a Runa String kind of token, for Runa expressions inside Carla; syscall keyword also was added
+```
