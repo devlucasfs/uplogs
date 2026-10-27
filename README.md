@@ -133,3 +133,8 @@ removed extra folder
 ```
 removed extra folder (i made this commit in Morgana for a mistake, LOL)
 ```
+# New commit in Carla.
+- Date: 2026-10-27 07:30:25
+```
+tests!(memory manager): testing if i can to freed memory without issues
+```
