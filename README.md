@@ -138,3 +138,8 @@ removed extra folder (i made this commit in Morgana for a mistake, LOL)
 ```
 tests!(memory manager): testing if i can to freed memory without issues
 ```
+# New commit in Morgana.
+- Date: 2026-10-28 18:47:50
+```
+tbh, i really do not remember what i did.
+```
