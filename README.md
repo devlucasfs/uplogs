@@ -153,3 +153,8 @@ feat(assigns) & chore(return, stdlib)
 ```
 stdlib: Vectors
 ```
+# New commit in Morgana.
+- Date: 2026-10-29 14:24:40
+```
+fix(tuple arg): now tuple arguments works right
+```
