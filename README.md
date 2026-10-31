@@ -168,3 +168,8 @@ feat(croutines): routines!
 ```
 feat(callbacks): lambda callbacks
 ```
+# New commit in Carla.
+- Date: 2026-10-30 21:54:49
+```
+fix(croutines): removed all leaks
+```
