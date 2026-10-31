@@ -163,3 +163,8 @@ fix(tuple arg): now tuple arguments works right
 ```
 feat(croutines): routines! 
 ```
+# New commit in Morgana.
+- Date: 2026-10-30 21:10:47
+```
+feat(callbacks): lambda callbacks
+```
