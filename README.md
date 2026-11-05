@@ -188,3 +188,8 @@ chore(multi-thread): now Carla compilation process is fully multi-thread, each a
 ```
 fix(compilation issues): fixing some compilations issues i had forgot to fix
 ```
+# New commit in Carla.
+- Date: 2026-11-05 06:50:40
+```
+feat(time elapsed): added a time elapsed counter for each compilation and also a total one
+```
