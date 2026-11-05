@@ -178,3 +178,8 @@ fix(croutines): removed all leaks
 ```
 feat(atmega328p): added atmega328p compatibility [Warning! : Can have AI slop. The code was write manually and improved with AI]
 ```
+# New commit in Carla.
+- Date: 2026-11-05 06:03:14
+```
+chore(multi-thread): now Carla compilation process is fully multi-thread, each arch compiles in a different proccess.
+```
