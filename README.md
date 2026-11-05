@@ -183,3 +183,8 @@ feat(atmega328p): added atmega328p compatibility [Warning! : Can have AI slop. T
 ```
 chore(multi-thread): now Carla compilation process is fully multi-thread, each arch compiles in a different proccess.
 ```
+# New commit in Morgana.
+- Date: 2026-11-05 06:03:57
+```
+fix(compilation issues): fixing some compilations issues i had forgot to fix
+```
