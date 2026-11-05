@@ -173,3 +173,8 @@ feat(callbacks): lambda callbacks
 ```
 fix(croutines): removed all leaks
 ```
+# New commit in Morgana.
+- Date: 2026-11-05 04:41:03
+```
+feat(atmega328p): added atmega328p compatibility [Warning! : Can have AI slop. The code was write manually and improved with AI]
+```
