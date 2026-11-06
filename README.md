@@ -193,3 +193,8 @@ fix(compilation issues): fixing some compilations issues i had forgot to fix
 ```
 feat(time elapsed): added a time elapsed counter for each compilation and also a total one
 ```
+# New commit in Carla.
+- Date: 2026-11-06 20:00:51
+```
+chore(stdlib) feat(upload) fix(end of expressions): added a lot of stuff, like: upload system, uart for avr in stdlib and also, eg. the ; and , are fixed in expressions rn (sometime we had a bug)
+```
