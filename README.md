@@ -198,3 +198,8 @@ feat(time elapsed): added a time elapsed counter for each compilation and also a
 ```
 chore(stdlib) feat(upload) fix(end of expressions): added a lot of stuff, like: upload system, uart for avr in stdlib and also, eg. the ; and , are fixed in expressions rn (sometime we had a bug)
 ```
+# New commit in Morgana.
+- Date: 2026-11-09 15:19:54
+```
+making morgana more ez to grow! 
+```
