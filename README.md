@@ -203,3 +203,8 @@ chore(stdlib) feat(upload) fix(end of expressions): added a lot of stuff, like: 
 ```
 making morgana more ez to grow! 
 ```
+# New commit in Morgana.
+- Date: 2026-11-14 20:46:37
+```
+rewriting in C without worries
+```
