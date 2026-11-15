@@ -218,3 +218,8 @@ coming back to C++. The biggest part is already rewrote
 ```
 chore(zed) feat(epilogue / x86_64-gnu) fix(parser): Added support to zed and also made the epilogue assembly codegen for x86_64-gnu; Removed the bug cuz the epilogue token was being consumed without to parse
 ```
+# New commit in Morgana.
+- Date: 2026-11-15 20:16:15
+```
+chore(x86_64-gnu): extensor almost already finished
+```
