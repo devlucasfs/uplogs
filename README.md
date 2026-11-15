@@ -208,3 +208,8 @@ making morgana more ez to grow!
 ```
 rewriting in C without worries
 ```
+# New commit in Morgana.
+- Date: 2026-11-15 01:50:07
+```
+coming back to C++. The biggest part is already rewrote
+```
