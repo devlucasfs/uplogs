@@ -213,3 +213,8 @@ rewriting in C without worries
 ```
 coming back to C++. The biggest part is already rewrote
 ```
+# New commit in Morgana.
+- Date: 2026-11-15 19:01:58
+```
+chore(zed) feat(epilogue / x86_64-gnu) fix(parser): Added support to zed and also made the epilogue assembly codegen for x86_64-gnu; Removed the bug cuz the epilogue token was being consumed without to parse
+```
