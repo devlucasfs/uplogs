@@ -223,3 +223,8 @@ chore(zed) feat(epilogue / x86_64-gnu) fix(parser): Added support to zed and als
 ```
 chore(x86_64-gnu): extensor almost already finished
 ```
+# New commit in Morgana.
+- Date: 2026-11-17 04:30:44
+```
+feat(optimizer): removed unused symbols
+```
