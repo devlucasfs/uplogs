@@ -238,3 +238,8 @@ feat(behavious): Now, all extensors have behavirous when to compile defined by a
 ```
 feat(upload) support(avr): Upload feature were added! Right now avr also is supported by Morgana.
 ```
+# New commit in Carla.
+- Date: 2026-11-18 01:41:56
+```
+refactor(morgana): now Carla is fully compatible with the new version of Morgana
+```
