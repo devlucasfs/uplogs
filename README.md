@@ -228,3 +228,8 @@ chore(x86_64-gnu): extensor almost already finished
 ```
 feat(optimizer): removed unused symbols
 ```
+# New commit in Morgana.
+- Date: 2026-11-18 00:45:59
+```
+feat(behavious): Now, all extensors have behavirous when to compile defined by a Sake file. (Samar) converted into an Eva file.
+```
