@@ -233,3 +233,8 @@ feat(optimizer): removed unused symbols
 ```
 feat(behavious): Now, all extensors have behavirous when to compile defined by a Sake file. (Samar) converted into an Eva file.
 ```
+# New commit in Morgana.
+- Date: 2026-11-18 01:37:40
+```
+feat(upload) support(avr): Upload feature were added! Right now avr also is supported by Morgana.
+```
