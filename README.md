@@ -243,3 +243,8 @@ feat(upload) support(avr): Upload feature were added! Right now avr also is supp
 ```
 refactor(morgana): now Carla is fully compatible with the new version of Morgana
 ```
+# New commit in Carla.
+- Date: 2026-11-20 19:08:57
+```
+feat(SIMD): Not 100% yet, but working
+```
