@@ -248,3 +248,8 @@ refactor(morgana): now Carla is fully compatible with the new version of Morgana
 ```
 feat(SIMD): Not 100% yet, but working
 ```
+# New commit in Carla.
+- Date: 2026-11-22 04:39:31
+```
+feat(xtensa): xtensa is finally supported by Carla. It just need to improve the way we compile it
+```
