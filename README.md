@@ -253,3 +253,8 @@ feat(SIMD): Not 100% yet, but working
 ```
 feat(xtensa): xtensa is finally supported by Carla. It just need to improve the way we compile it
 ```
+# New commit in Carla.
+- Date: 2026-11-23 10:21:33
+```
+refactor(samar): New Samar file format
+```
