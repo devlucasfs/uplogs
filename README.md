@@ -258,3 +258,8 @@ feat(xtensa): xtensa is finally supported by Carla. It just need to improve the 
 ```
 refactor(samar): New Samar file format
 ```
+# New commit in Carla.
+- Date: 2026-11-23 10:22:22
+```
+removing target folder
+```
