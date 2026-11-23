@@ -263,3 +263,8 @@ refactor(samar): New Samar file format
 ```
 removing target folder
 ```
+# New commit in Morgana.
+- Date: 2026-11-23 10:24:45
+```
+chore(samar): updating samar to the new version
+```
