@@ -288,3 +288,8 @@ added icon to readme
 ```
 fixing a typo
 ```
+# New commit in Carla.
+- Date: 2026-11-24 21:20:43
+```
+new readme more compact
+```
