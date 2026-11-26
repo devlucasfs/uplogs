@@ -293,3 +293,8 @@ fixing a typo
 ```
 new readme more compact
 ```
+# New commit in Carla.
+- Date: 2026-11-26 07:44:14
+```
+chore(stdlib): making printf work with %% as an escaped %.
+```
