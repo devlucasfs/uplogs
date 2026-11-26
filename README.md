@@ -308,3 +308,8 @@ feat(init): init command added
 ```
 removed debug folder
 ```
+# New commit in Carla.
+- Date: 2026-11-26 13:15:33
+```
+feat(packages): first package manager command (install)
+```
