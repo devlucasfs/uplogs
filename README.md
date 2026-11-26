@@ -313,3 +313,8 @@ removed debug folder
 ```
 feat(packages): first package manager command (install)
 ```
+# New commit in Carla.
+- Date: 2026-11-26 14:35:44
+```
+feat(artifacts): artifacts are best rn
+```
