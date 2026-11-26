@@ -303,3 +303,8 @@ chore(stdlib): making printf work with %% as an escaped %.
 ```
 feat(init): init command added
 ```
+# New commit in Carla.
+- Date: 2026-11-26 10:53:00
+```
+removed debug folder
+```
