@@ -328,3 +328,8 @@ feat(artifacts): implemented artifacts into morgana
 ```
 feat(libs) feat(export): libs are finally supported; Export keyword was added
 ```
+# New commit in Morgana.
+- Date: 2026-11-26 16:08:28
+```
+feat(export): export keyword was added. That keyword makes morgana ignore the code optimization part for that function
+```
