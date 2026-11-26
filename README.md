@@ -318,3 +318,8 @@ feat(packages): first package manager command (install)
 ```
 feat(artifacts): artifacts are best rn
 ```
+# New commit in Morgana.
+- Date: 2026-11-26 14:36:16
+```
+feat(artifacts): implemented artifacts into morgana
+```
