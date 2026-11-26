@@ -298,3 +298,8 @@ new readme more compact
 ```
 chore(stdlib): making printf work with %% as an escaped %.
 ```
+# New commit in Carla.
+- Date: 2026-11-26 10:52:34
+```
+feat(init): init command added
+```
